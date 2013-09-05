@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/steviee/railstpl.png?branch=master)](https://travis-ci.org/steviee/railstpl)
+
 Welcome to Rails TPL
 
 This project aims to provide a simple starter project for web appilcations. This template project closely follows Michael Hartl's Rails Tutorial (see http://ruby.railstutorial.org/).
