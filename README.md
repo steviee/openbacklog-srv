@@ -1,4 +1,4 @@
-== Welcome to Rails TPL
+Welcome to Rails TPL
 
 This project aims to provide a simple starter project for web appilcations. This template project closely follows Michael Hartl's Rails Tutorial (see http://ruby.railstutorial.org/).
 All the errors and mistakes in this project are of my doing and all the credits go to Michael.
