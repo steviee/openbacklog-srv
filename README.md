@@ -1,28 +1,15 @@
-== README
+== Welcome to Rails TPL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project aims to provide a simple starter project for web appilcations. This template project closely follows Michael Hartl's Rails Tutorial (see http://ruby.railstutorial.org/).
+All the errors and mistakes in this project are of my doing and all the credits go to Michael.
 
-Things you may want to cover:
+What this project will provide when done:
 
-* Ruby version
+* Easy starting point for more complex applications
+* Using Bootstrap templates (see http://www.getbootstrap.com)
+* Providing user management with sign-up/sign-in
+* Later Sign-in via Twitter/Facebook/Google will be added
+* Easy role management
+* Deployment instructions for you to start using the template
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Please add issues you find in the issues section of this github repository. There is no other website for this project.
