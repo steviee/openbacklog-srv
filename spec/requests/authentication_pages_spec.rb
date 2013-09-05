@@ -28,6 +28,9 @@ describe "Authentication" do
   end
 
   describe "with valid information" do
+      
+      before { visit signin_path }
+      
       let(:user) { FactoryGirl.create(:user) }
       before do
         fill_in "Email",    with: user.email.upcase
