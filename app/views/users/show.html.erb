@@ -7,5 +7,12 @@
         <%= @user.name %>
       </h1>
     </section>
+    <container>
+      <Label for="createdon">User registered:</Label>
+      <div id="createdon"><%= @user.created_at.to_formatted_s(:long_ordinal)  %></div>
+      <Label for="updatedon">Profile last updated:</Label>
+      <div id="createdon"><%= @user.updated_at.to_formatted_s(:long_ordinal)  %></div>
+
+    </container>
   </aside>
 </div>
