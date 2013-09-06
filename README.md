@@ -11,6 +11,7 @@ What this project will provide when done:
 * Using Bootstrap templates (see http://www.getbootstrap.com)
 * Providing user management with sign-up/sign-in
 * Later Sign-in via Twitter/Facebook/Google will be added
+* Multilanguage support
 * Easy role management
 * Deployment instructions for you to start using the template
 
